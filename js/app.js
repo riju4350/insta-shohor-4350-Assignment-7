@@ -180,10 +180,3 @@ const loadPosts = async () => {
 };
 
 loadPosts();
-
-// git init
-// git add .
-// git commit -m "first commit"
-// git branch -M main
-// git remote add origin https://github.com/riju4350/insta-shohor-4350-Assignment-7.git
-// git push -u origin main
