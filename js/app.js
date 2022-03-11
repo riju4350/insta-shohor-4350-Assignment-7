@@ -14,7 +14,7 @@ const getReportedPosts = () => {
 const isLiked = (id) => {
   return likedPostsId?.length && !!likedPostsId.includes(id);
 };
-
+// change .plus to .push
 const addToLiked = (id) => {
   likedPostsId.push(id);
   showPosts(posts);
